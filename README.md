@@ -1,6 +1,6 @@
 # face-recognition项目介绍
 
-这个项目有两个大功能：<br />
+这个项目有两个大功能：人脸预处理和CNN人脸训练与识别<br />
 <br />
 # 1、人脸预处理<br />
 人脸活体检测：从原始图片中识别出人脸的位置，以及68个特征点位置，借助shape_predictor_68_face_landmarks模型。<br />
