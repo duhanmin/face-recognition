@@ -33,7 +33,7 @@ def cos_angle(a,b,c,θ = 1):
 def trait_angle(path):
     detector = dlib.get_frontal_face_detector()
     landmark_predictor = dlib.shape_predictor(
-        r'C:\Users\zyxrdu\Desktop\shape_predictor_68_face_landmarks.dat\shape_predictor_68_face_landmarks.dat')
+        r'shape_predictor_68_face_landmarks/shape_predictor_68_face_landmarks.dat')
     img = cv2.imread(path)
     faces = detector(img, 1)
     feas = []  # 关键点
