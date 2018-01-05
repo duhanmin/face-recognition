@@ -15,4 +15,4 @@
 原始数据截图：<br />
 ![image](https://github.com/duhanmin/face-recognition/blob/master/images/1.png)<br />
 处理后的数据：<br />
-![image](https://github.com/duhanmin/face-recognition/blob/master/images/1.png)<br />
+![image](https://github.com/duhanmin/face-recognition/blob/master/images/2.png)<br />
