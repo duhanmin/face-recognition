@@ -16,3 +16,7 @@
 ![image](https://github.com/duhanmin/face-recognition/blob/master/images/1.png)<br /><br />
 处理后的数据：<br />
 ![image](https://github.com/duhanmin/face-recognition/blob/master/images/2.png)<br /><br />
+训练效果：<br />
+![image](https://github.com/duhanmin/face-recognition/blob/master/images/6.png)<br /><br />
+测试效果：<br />
+![image](https://github.com/duhanmin/face-recognition/blob/master/images/7.png)<br /><br />
