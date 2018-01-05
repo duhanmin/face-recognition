@@ -12,3 +12,7 @@
 <br />
 2、CNN人脸训练与识别<br />
 网络方案：2个卷积、2个pooling、两个全连接、所有激活函数均采用leaky_relu<br />
+原始数据截图：<br />
+![image](https://github.com/duhanmin/face-recognition/blob/master/images/1.png)<br />
+处理后的数据：<br />
+![image](https://github.com/duhanmin/face-recognition/blob/master/images/1.png)<br />
