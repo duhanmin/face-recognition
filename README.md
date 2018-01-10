@@ -3,6 +3,10 @@
 这个项目有两个大功能：人脸预处理和CNN人脸训练与识别<br />
 由于不能上传大文件，需要下载shape_predictor_68_face_landmarks文件，在该文件夹内提供了下载链接<br />
 人脸数据需要自己造，暂不提供
+
+# 需要注意：
+由于dlib只支持python3.6，在其他版本的python环境中需要进行重构<br />
+对人脸切割部分代码进行以下的重构
 ```python
 cutting_position = (d.left(), d.top(), d.right(), d.bottom())
 # 切割出人脸
