@@ -5,7 +5,7 @@
 人脸数据需要自己造，暂不提供
 
 # 需要注意
-由于dlib只支持python3.6，在其他版本的python环境中需要进行重构<br />
+由于dlib新版API只支持python3.6，在其他版本的python环境中需要进行重构<br />
 对人脸切割部分代码进行以下的重构
 ```python
 cutting_position = (d.left(), d.top(), d.right(), d.bottom())
