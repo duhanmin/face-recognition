@@ -4,7 +4,7 @@
 由于不能上传大文件，需要下载shape_predictor_68_face_landmarks文件，在该文件夹内提供了下载链接<br />
 人脸数据需要自己造，暂不提供<br />
 
-'''python
+```python
 cutting_position = (d.left(), d.top(), d.right(), d.bottom())
 # 切割出人脸
 im = Image.open(r'C:\Users\zyxrdu\Desktop\w\a4.jpg')
@@ -21,7 +21,7 @@ region = cv2.cvtColor(np.asarray(region), cv2.COLOR_RGB2BGR)
 cv2.imshow('region', region)
 print(type(region))
 cv2.waitKey(0)
-'''
+```
 
 <br />
 # 1、人脸预处理<br />
