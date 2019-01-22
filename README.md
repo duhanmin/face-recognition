@@ -43,3 +43,6 @@ cv2.waitKey(0)
 ![image](https://github.com/duhanmin/face-recognition/blob/master/images/6.png)<br /><br />
 测试效果：<br />
 ![image](https://github.com/duhanmin/face-recognition/blob/master/images/7.png)<br /><br />
+
+# 赞助
+<img src="https://github.com/duhanmin/mathematics-statistics-python/blob/master/images/90f9a871536d5910cad6c10f0297fc7.jpg" width="250">
